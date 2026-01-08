@@ -1,7 +1,7 @@
 ## 🌐 Live Demo
 
-Check out the live demo here: 
-https://bayonetask.netlify.app/login
+Check out the live demo of the project here:  
+[BayoneTask on Netlify](https://bayonetask.netlify.app)
 
 > Note: Use the demo credentials to log in:  
 > Email: `user@gmail.com`  
