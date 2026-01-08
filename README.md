@@ -1,20 +1,27 @@
-## 📷 Screenshots
-
-### Login Page
-![Login Page](./screenshots/login.png)
-
-### Dashboard Page
-![Dashboard Page](./screenshots/dashboard.png)
-
----
-
 ## 🌐 Live Demo
 
-Check out the live demo here: [ReqRes Auth Dashboard](https://your-live-link.vercel.app)
+Check out the live demo here: 
+https://bayonetask.netlify.app/login
 
 > Note: Use the demo credentials to log in:  
 > Email: `user@gmail.com`  
 > Password: `password@123`
+
+
+##  Screenshots
+
+### Login Page
+<img width="2689" height="1294" alt="image" src="https://github.com/user-attachments/assets/485d990f-fbcc-498e-aa05-1cba1f54636f" />
+
+
+
+### Dashboard Page
+<img width="2570" height="1265" alt="image" src="https://github.com/user-attachments/assets/caaa0b13-0574-484a-bc52-8ebed2a1a13f" />
+
+
+---
+
+
 
 # ReqRes Auth Dashboard (Vite + React)
 
@@ -38,7 +45,8 @@ This project simulates a real-world login + dashboard scenario while staying ful
 - Displays a **grid of user cards** with:
   - Name  
   - Email  
-  - Avatar
+  - Avatar - User profile images are fetched from [Random User API](https://randomuser.me/photos) for demo purposes.
+
 - Includes a **Logout** button that clears the token and redirects to the login page.
 
 ### Realistic Mock API
@@ -60,7 +68,7 @@ This project simulates a real-world login + dashboard scenario while staying ful
 - **Plain CSS** – layout, cards, buttons, forms  
 - **Mocked API** – for authentication & user data  
 
----
+```
 
 ##  Project Structure (Quick Overview)
 
@@ -77,10 +85,9 @@ src/
 └── styles.css # All styling (grid, cards, buttons)
 vite.config.js # Vite config + optional API proxy
 
+```
 
----
-
-## 🚀 Running the Project
+##  Running the Project
 
 1. Install dependencies:
 
